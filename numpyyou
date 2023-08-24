@@ -43,9 +43,11 @@ arr = np.arange(4)        output = [0 1 2 3]
 arr = np.eye(3)           //3*3 ka unit matrix with diagonal = 1
 //libespace 
 arr = np.linespace(0 , 10 , num = 5)         output = [0 2.5 5 7.5 10]
+//random array var = np.rabdom.rand(4)        output - is 4 elements random between 0 and 1
+//var = np.random.rand( 4)                 include negetive number as well b/w 0 - 1
+//var = np.random.randint(5 , 10 , 5)          (min , max , total)           use to generate a random number between a given number
 
-
-
+//type of datatype -
 
 
 
